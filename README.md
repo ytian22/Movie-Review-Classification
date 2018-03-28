@@ -1,8 +1,8 @@
-# Word Embeddings
+# Movie Review Classification with Word Embeddings
 Classified movie reviews into positive and negative by 50,000 reviews from IMDB
 
 ## Description
-The large movie view dataset (http://ai.stanford. edu/~amaas/data/sentiment/) contains a collection of 50,000 reviews from IMDB. The dataset contains an even number of positive and negative reviews and is divided into training and test sets. The training set is the same 25,000 labeled reviews. The sentiment classification task consists of predicting the polarity (positive or negative) of a given text.
+The large movie view dataset (http://ai.stanford.edu/~amaas/data/sentiment/) contains a collection of 50,000 reviews from IMDB. The dataset contains an even number of positive and negative reviews and is divided into training and test sets. The training set is the same 25,000 labeled reviews. The sentiment classification task consists of predicting the polarity (positive or negative) of a given text.
 
 ## Steps
 1. Use the libary spacy to tokenize data. 
