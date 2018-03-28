@@ -1,4 +1,4 @@
-# Movie Review Classification with Word Embeddings
+# Movie Review Classification with Word Embeddings (Feb 2018)
 Classified movie reviews into positive and negative with GloVe embeddings and machine learning techniques.
 
 ## Description
